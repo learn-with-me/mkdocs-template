@@ -1,0 +1,8 @@
+site_name: MkDocs Template
+site_url: https://example.com/
+nav:
+    - Home: index.md
+    - About: about.md
+theme: readthedocs
+# theme:
+#   name: material
