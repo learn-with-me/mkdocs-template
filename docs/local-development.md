@@ -6,20 +6,47 @@ To view/edit the site in live mode, open a browser session in [http://localhost:
 
 ## Set up environment
 
-TBD `venv` via sh
+> Skip this stop if `venv` exists in current directory.
+
+Verify if virtual environment is already installed
+
+```sh
+$ virtualenv --version
+```
+
+If the command returns error, then install `virtualenv`
+
+```sh
+$ pip install virtualenv
+```
+
+Create virtual environment `venv`
+
+```sh
+$ virtualenv venv
+```
+
+Activate virtual environment
+
+```sh
+$ source venv/bin/activate
+```
 
 ## Install Dependencies
 
 ```
-$ pip install mkdocs mkdocs-bootstrap
+(venv) $ pip install -r requirements.txt
 ```
 
 ## Running locally
 
 ```
-$ mkdocs serve
+(venv) $ mkdocs serve
 
 Open the browser with http://localhost:8000
+
+If ever needed, you can also generate the `site` folder locally via:
+(venv) $ mkdocs build --clean
 ```
 
 ## What if there is a port conflict?
