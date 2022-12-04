@@ -12,6 +12,7 @@ Feel free to use this template by clicking on `Use this template` button.
 - Stand up a static website in seconds
 - Uses material-UI plugin to follow standard UI elements
 - Built in search support
+- GitHub workflow setup already to deploy to Gh-pages
 
 ### Tips
 
