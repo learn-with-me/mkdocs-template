@@ -1,6 +1,6 @@
 # Hosting Site built
 
-This repository has GitHub workflow setup, which will automatically upload changes to GitHub pages on merge to `main` branch. No additional action needed.
+> Note: This repository has GitHub workflow setup, which will automatically upload changes to GitHub pages on merge to `main` branch. No additional action needed.
 
 However, in case there is a need to do it manually, below are a few options:
 
