@@ -1,8 +1,16 @@
 # New MkDocs project
 
-Use this repository as a template, or follow instructions below to start from scratch:
+To use this repository as a template via cli, create your repository and clone this project there:
 
-## Prerequisite
+```sh
+git clone git@github.com:goel4ever/mkdocs-template.git
+```
+
+## Starting from scratch
+
+Follow instructions below to start from scratch:
+
+### Prerequisite
 
 Make sure you have mkdocs installed locally, or refer to [this](local-development.md) document.
 Alternatively, if you have python installed locally, just run:
@@ -13,7 +21,7 @@ or
 $ pip3 install mkdocs
 ```
 
-## Create new project
+### Create new project
 
 Create a desired project folder, and `cd` into it.
 
