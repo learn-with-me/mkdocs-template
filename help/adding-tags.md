@@ -17,7 +17,7 @@ tags:
 
 ## How do I know it's working?
 
-As an example, go [here](https://goel4ever.github.io/mkdocs-template/). Type `mkdocs` in the search bar. You'll see the tags above show up right below document recommendation.
+As an example, go [here](https://learn-with-me.github.io/mkdocs-template/). Type `mkdocs` in the search bar. You'll see the tags above show up right below document recommendation.
 
 Similaryly, go to your website and search for the tags you added.
 
