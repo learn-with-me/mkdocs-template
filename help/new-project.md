@@ -3,7 +3,7 @@
 To use this repository as a template via cli, create your repository and clone this project there:
 
 ```sh
-git clone git@github.com:goel4ever/mkdocs-template.git
+git clone git@github.com:learn-with-me/mkdocs-template.git
 ```
 
 ## Starting from scratch

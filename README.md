@@ -1,6 +1,6 @@
 # MkDocs Template
 
-Template for documenting my notes. Go [here](https://goel4ever.github.io/mkdocs-template/) for a demo.
+Template for documenting my notes. Go [here](https://learn-with-me.github.io/mkdocs-template/) for a demo.
 
 Feel free to use this template by clicking on `Use this template` button.
 
@@ -25,7 +25,7 @@ Feel free to use this template by clicking on `Use this template` button.
 
 ### Creating a repo
 
-Click on `Use this template` green button from the [repository](https://github.com/goel4ever/mkdocs-template) to create your own repository in a desired github account.
+Click on `Use this template` green button from the [repository](https://github.com/learn-with-me/mkdocs-template) to create your own repository in a desired github account.
 
 ### Updating configuration
 
@@ -60,8 +60,8 @@ There is good documentation [here](./docs/local-development.md) for tasks that m
 
 Refer [contributing guidelines](./docs/CONTRIBUTING.md) for making contributions to the template.
 
-- Issue Tracker: https://github.com/goel4ever/mkdocs-template/issues
-- Source Code: https://github.com/goel4ever/mkdocs-template
+- Issue Tracker: https://github.com/learn-with-me/mkdocs-template/issues
+- Source Code: https://github.com/learn-with-me/mkdocs-template
 
 Support
 -------
