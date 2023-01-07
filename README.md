@@ -1,8 +1,6 @@
 # MkDocs Template
 
-Template for documenting my notes. Go [here](https://learn-with-me.github.io/mkdocs-template/) for a demo.
-
-Feel free to use this template by clicking on `Use this template` button.
+Template for documenting notes. Go [here](https://learn-with-me.github.io/mkdocs-template/) for a demo.
 
 [This documentation](./docs/README.md) should have everything needed or at least most common scenarios for help.
 
@@ -54,7 +52,7 @@ Nothing needs to be done here. Your GitHub workflow will take care of pushing th
 
 ## Help
 
-There is good documentation [here](./docs/local-development.md) for tasks that may be helpful. Feel free to check it out.
+There is good documentation [here](./help/local-development.md) for tasks that may be helpful. Feel free to check it out.
 
 ## Contribution
 
